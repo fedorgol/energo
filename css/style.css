@@ -333,6 +333,12 @@ i.bell {
 	text-align: center;
 	
 }
+.ind {
+	margin-top: -10px;
+}
+.ab {
+	margin-top: 500px;
+}
 /*.footer-st {
 	margin-top: 53%;*/
 }
